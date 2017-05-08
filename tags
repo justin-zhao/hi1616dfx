@@ -1,0 +1,321 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AA_CNT_NUM	proc/AA.c	26;"	d	file:
+AA_DFXCTRL	proc/AA.c	19;"	d	file:
+AA_DLYADD0	proc/AA.c	21;"	d	file:
+AA_DLYADD1	proc/AA.c	22;"	d	file:
+AA_DLYMAX	proc/AA.c	24;"	d	file:
+AA_DLYNUM	proc/AA.c	23;"	d	file:
+AA_MODULE_SEL	proc/AA.c	13;"	d	file:
+AA_NUM	proc/AA.c	25;"	d	file:
+AA_READ_REG	proc/AA.c	15;"	d	file:
+AA_STATDLY	proc/AA.c	20;"	d	file:
+AA_WRITE_REG	proc/AA.c	17;"	d	file:
+DDRC_CFG_PERF	proc/LLC.c	22;"	d	file:
+DDRC_CFG_STACMD	proc/LLC.c	21;"	d	file:
+DDRC_CFG_STADAT	proc/LLC.c	20;"	d	file:
+DDRC_CFG_STAID	proc/LLC.c	23;"	d	file:
+DDRC_CFG_STAIDMSK	proc/LLC.c	24;"	d	file:
+DDRC_CTRL_PERF	proc/LLC.c	19;"	d	file:
+DDRC_HIS_CMD_SUM	proc/LLC.c	30;"	d	file:
+DDRC_HIS_FLUX_RCMD	proc/LLC.c	28;"	d	file:
+DDRC_HIS_FLUX_RD	proc/LLC.c	26;"	d	file:
+DDRC_HIS_FLUX_WCMD	proc/LLC.c	27;"	d	file:
+DDRC_HIS_FLUX_WR	proc/LLC.c	25;"	d	file:
+DDRC_HIS_WLATCNT0	proc/LLC.c	29;"	d	file:
+DDR_CNT_NUM	proc/LLC.c	52;"	d	file:
+DDR_NUM	proc/LLC.c	51;"	d	file:
+DDR_REG_NUM	proc/LLC.c	50;"	d	file:
+DEVICE_NAME	proc/proc.c	3;"	d	file:
+DFX_COMMON	include/common.h	2;"	d
+DFX_DJTAG	djtag/djtag.h	2;"	d
+DJTAG_DIE_NUM	djtag/djtag.c	59;"	d	file:
+DJTAG_DIE_NUM	djtag/djtag.h	66;"	d
+DJTAG_DIE_NUM	djtag/djtag.h	68;"	d
+DJTAG_DIE_NUM	djtag/djtag.h	70;"	d
+DJTAG_MODULE_SEL_NI_SLLC0	proc/HHA.c	15;"	d	file:
+DJTAG_MODULE_SEL_TT_SLLC0	proc/HHA.c	14;"	d	file:
+EXTRA_CFLAGS	Makefile	/^EXTRA_CFLAGS := -DMMAN -I${pwd}\/include$/;"	m
+HHA0_MODULE_SEL	proc/HHA.c	12;"	d	file:
+HHA1_MODULE_SEL	proc/HHA.c	13;"	d	file:
+HHA_CLR_STAT	proc/HHA.c	31;"	d	file:
+HHA_CNT_CTRL	proc/HHA.c	30;"	d	file:
+HHA_CNT_NUM	proc/HHA.c	63;"	d	file:
+HHA_EVENT_CNT0_H	proc/HHA.c	36;"	d	file:
+HHA_EVENT_CNT0_L	proc/HHA.c	35;"	d	file:
+HHA_EVENT_CNT1_H	proc/HHA.c	38;"	d	file:
+HHA_EVENT_CNT1_L	proc/HHA.c	37;"	d	file:
+HHA_EVENT_CNTTYPE_H	proc/HHA.c	34;"	d	file:
+HHA_EVENT_CNTTYPE_L	proc/HHA.c	32;"	d	file:
+HHA_EVENT_CNTTYPE_M	proc/HHA.c	33;"	d	file:
+HHA_READ_REG	proc/HHA.c	17;"	d	file:
+HHA_WRITE_REG	proc/HHA.c	19;"	d	file:
+HLLC0_MODULE_SEL	proc/PA.c	13;"	d	file:
+HLLC1_MODULE_SEL	proc/PA.c	14;"	d	file:
+HLLC2_MODULE_SEL	proc/PA.c	15;"	d	file:
+HLLC_CNT_NUM	proc/PA.c	44;"	d	file:
+HLLC_PA_RX_CH0_FLIT_CNT	proc/PA.c	36;"	d	file:
+HLLC_PA_RX_CH1_FLIT_CNT	proc/PA.c	37;"	d	file:
+HLLC_PA_RX_CH2_FLIT_CNT	proc/PA.c	38;"	d	file:
+HLLC_PA_RX_CH3_FLIT_CNT	proc/PA.c	39;"	d	file:
+HLLC_PA_TX_CH0_FLIT_CNT	proc/PA.c	32;"	d	file:
+HLLC_PA_TX_CH1_FLIT_CNT	proc/PA.c	33;"	d	file:
+HLLC_PA_TX_CH2_FLIT_CNT	proc/PA.c	34;"	d	file:
+HLLC_PA_TX_CH3_FLIT_CNT	proc/PA.c	35;"	d	file:
+HLLC_READ_REG	proc/PA.c	17;"	d	file:
+KSRC	Makefile	/^KSRC = \/home\/z00228467\/file\/kernel-dev$/;"	m
+LLC_AUCTRL	proc/LLC.c	15;"	d	file:
+LLC_BANK_EVENT_CNT0	proc/LLC.c	18;"	d	file:
+LLC_BANK_EVENT_TYPE0	proc/LLC.c	16;"	d	file:
+LLC_BANK_EVENT_TYPE1	proc/LLC.c	17;"	d	file:
+LLC_BANK_NUM	proc/LLC.c	12;"	d	file:
+LLC_CNT_NUM	proc/LLC.c	40;"	d	file:
+LLC_CNT_NUM	proc/LLC.c	42;"	d	file:
+LLC_EVENT_NUM	proc/LLC.c	13;"	d	file:
+LLC_MODULE_SEL	proc/LLC.c	14;"	d	file:
+LLC_READ_REG	proc/LLC.c	32;"	d	file:
+LLC_WRITE_REG	proc/LLC.c	34;"	d	file:
+MAX	djtag/djtag.h	58;"	d
+MAX	proc/PA.c	12;"	d	file:
+MODULE	Makefile	/^MODULE := dfx$/;"	m
+OS_READ_REG	include/common.h	14;"	d
+OS_WRITE_REG	include/common.h	15;"	d
+PA_CNT_NUM	proc/PA.c	42;"	d	file:
+PA_H0_RX_DAT_CNT	proc/PA.c	23;"	d	file:
+PA_H0_RX_REQ_CNT	proc/PA.c	20;"	d	file:
+PA_H0_RX_RSP_CNT	proc/PA.c	22;"	d	file:
+PA_H0_RX_SNP_CNT	proc/PA.c	21;"	d	file:
+PA_H1_RX_DAT_CNT	proc/PA.c	27;"	d	file:
+PA_H1_RX_REQ_CNT	proc/PA.c	24;"	d	file:
+PA_H1_RX_RSP_CNT	proc/PA.c	26;"	d	file:
+PA_H1_RX_SNP_CNT	proc/PA.c	25;"	d	file:
+PA_H2_RX_DAT_CNT	proc/PA.c	31;"	d	file:
+PA_H2_RX_REQ_CNT	proc/PA.c	28;"	d	file:
+PA_H2_RX_RSP_CNT	proc/PA.c	30;"	d	file:
+PA_H2_RX_SNP_CNT	proc/PA.c	29;"	d	file:
+PA_MODULE_SEL	proc/PA.c	16;"	d	file:
+PA_READ_REG	proc/PA.c	18;"	d	file:
+PWD	Makefile	/^PWD = $(shell pwd)$/;"	m
+S0_NA_SC	djtag/djtag.c	13;"	d	file:
+S0_NB_SC	djtag/djtag.c	14;"	d	file:
+S0_TA_DDR0_ADDR	djtag/djtag.c	23;"	d	file:
+S0_TA_DDR1_ADDR	djtag/djtag.c	24;"	d	file:
+S0_TA_SC	djtag/djtag.c	4;"	d	file:
+S0_TB_DDR0_ADDR	djtag/djtag.c	25;"	d	file:
+S0_TB_DDR1_ADDR	djtag/djtag.c	26;"	d	file:
+S0_TB_SC	djtag/djtag.c	5;"	d	file:
+S1_NA_SC	djtag/djtag.c	15;"	d	file:
+S1_NB_SC	djtag/djtag.c	16;"	d	file:
+S1_TA_DDR0_ADDR	djtag/djtag.c	27;"	d	file:
+S1_TA_DDR1_ADDR	djtag/djtag.c	28;"	d	file:
+S1_TA_SC	djtag/djtag.c	6;"	d	file:
+S1_TB_DDR0_ADDR	djtag/djtag.c	29;"	d	file:
+S1_TB_DDR1_ADDR	djtag/djtag.c	30;"	d	file:
+S1_TB_SC	djtag/djtag.c	7;"	d	file:
+S2_NA_SC	djtag/djtag.c	17;"	d	file:
+S2_NB_SC	djtag/djtag.c	18;"	d	file:
+S2_TA_DDR0_ADDR	djtag/djtag.c	31;"	d	file:
+S2_TA_DDR1_ADDR	djtag/djtag.c	32;"	d	file:
+S2_TA_SC	djtag/djtag.c	8;"	d	file:
+S2_TB_DDR0_ADDR	djtag/djtag.c	33;"	d	file:
+S2_TB_DDR1_ADDR	djtag/djtag.c	34;"	d	file:
+S2_TB_SC	djtag/djtag.c	9;"	d	file:
+S3_NA_SC	djtag/djtag.c	19;"	d	file:
+S3_NB_SC	djtag/djtag.c	20;"	d	file:
+S3_TA_DDR0_ADDR	djtag/djtag.c	35;"	d	file:
+S3_TA_DDR1_ADDR	djtag/djtag.c	36;"	d	file:
+S3_TA_SC	djtag/djtag.c	10;"	d	file:
+S3_TB_DDR0_ADDR	djtag/djtag.c	37;"	d	file:
+S3_TB_DDR1_ADDR	djtag/djtag.c	38;"	d	file:
+S3_TB_SC	djtag/djtag.c	11;"	d	file:
+SLLCNI_CNT_NUM	proc/HHA.c	71;"	d	file:
+SLLCNI_READ_REG	proc/HHA.c	25;"	d	file:
+SLLCNI_WRITE_REG	proc/HHA.c	27;"	d	file:
+SLLCTT_CNT_NUM	proc/HHA.c	67;"	d	file:
+SLLCTT_READ_REG	proc/HHA.c	21;"	d	file:
+SLLCTT_WRITE_REG	proc/HHA.c	23;"	d	file:
+SLLC_BIDIRECTION_CTRL	proc/HHA.c	40;"	d	file:
+SLLC_RX_DAT_PKT_CNT_H	proc/HHA.c	56;"	d	file:
+SLLC_RX_DAT_PKT_CNT_L	proc/HHA.c	55;"	d	file:
+SLLC_RX_REQ_PKT_CNT_H	proc/HHA.c	50;"	d	file:
+SLLC_RX_REQ_PKT_CNT_L	proc/HHA.c	49;"	d	file:
+SLLC_RX_RSP_PKT_CNT_H	proc/HHA.c	54;"	d	file:
+SLLC_RX_RSP_PKT_CNT_L	proc/HHA.c	53;"	d	file:
+SLLC_RX_SNP_PKT_CNT_H	proc/HHA.c	52;"	d	file:
+SLLC_RX_SNP_PKT_CNT_L	proc/HHA.c	51;"	d	file:
+SLLC_TX_CNT_NUM	proc/HHA.c	66;"	d	file:
+SLLC_TX_DAT_PKT_CNT	proc/HHA.c	61;"	d	file:
+SLLC_TX_DAT_PKT_CNT_H	proc/HHA.c	48;"	d	file:
+SLLC_TX_DAT_PKT_CNT_L	proc/HHA.c	47;"	d	file:
+SLLC_TX_REQ_PKT_CNT	proc/HHA.c	58;"	d	file:
+SLLC_TX_REQ_PKT_CNT_H	proc/HHA.c	42;"	d	file:
+SLLC_TX_REQ_PKT_CNT_L	proc/HHA.c	41;"	d	file:
+SLLC_TX_RSP_PKT_CNT	proc/HHA.c	60;"	d	file:
+SLLC_TX_RSP_PKT_CNT_H	proc/HHA.c	46;"	d	file:
+SLLC_TX_RSP_PKT_CNT_L	proc/HHA.c	45;"	d	file:
+SLLC_TX_SNP_PKT_CNT	proc/HHA.c	59;"	d	file:
+SLLC_TX_SNP_PKT_CNT_H	proc/HHA.c	44;"	d	file:
+SLLC_TX_SNP_PKT_CNT_L	proc/HHA.c	43;"	d	file:
+SOCKET_NUMBER	djtag/djtag.h	63;"	d
+SYSCTRL_REG_SPACE	djtag/djtag.h	72;"	d
+T2_DJTAG_MSTR_ADDR_REG	djtag/djtag.h	42;"	d
+T2_DJTAG_MSTR_CFG_REG	djtag/djtag.h	44;"	d
+T2_DJTAG_MSTR_CFG_U	djtag/djtag.h	/^}T2_DJTAG_MSTR_CFG_U;$/;"	t	typeref:union:t2DjtagMstrCfg
+T2_DJTAG_MSTR_DATA_REG	djtag/djtag.h	43;"	d
+T2_DJTAG_MSTR_START_EN_REG	djtag/djtag.h	45;"	d
+T2_DJTAG_MSTR_START_EN_U	djtag/djtag.h	/^}T2_DJTAG_MSTR_START_EN_U;$/;"	t	typeref:union:t2DjtagMstrStartEn
+T2_DJTAG_OP_ST_REG	djtag/djtag.h	56;"	d
+T2_DJTAG_OP_ST_U	djtag/djtag.h	/^}T2_DJTAG_OP_ST_U;$/;"	t	typeref:union:t2DjtagOpSt
+T2_DJTAG_RD_DATA0_REG	djtag/djtag.h	46;"	d
+T2_DJTAG_RD_DATA1_REG	djtag/djtag.h	47;"	d
+T2_DJTAG_RD_DATA2_REG	djtag/djtag.h	48;"	d
+T2_DJTAG_RD_DATA3_REG	djtag/djtag.h	49;"	d
+T2_DJTAG_RD_DATA4_REG	djtag/djtag.h	50;"	d
+T2_DJTAG_RD_DATA5_REG	djtag/djtag.h	51;"	d
+T2_DJTAG_RD_DATA6_REG	djtag/djtag.h	52;"	d
+T2_DJTAG_RD_DATA7_REG	djtag/djtag.h	53;"	d
+T2_DJTAG_RD_DATA8_REG	djtag/djtag.h	54;"	d
+T2_DJTAG_RD_DATA9_REG	djtag/djtag.h	55;"	d
+aa_cb_statistic_thread	proc/AA.c	/^void * aa_cb_statistic_thread(void * arg)$/;"	f
+aa_clear_event_cnt	proc/AA.c	/^void aa_clear_event_cnt(void)$/;"	f
+aa_cnt	proc/AA.c	/^u64 * aa_cnt[AA_CNT_NUM]; $/;"	v
+aa_free_mem	proc/AA.c	/^void aa_free_mem(void)$/;"	f
+aa_rd_statistic_thread	proc/AA.c	/^void * aa_rd_statistic_thread(void * arg)$/;"	f
+aa_set_event_cfg	proc/AA.c	/^void aa_set_event_cfg(u32 type)$/;"	f
+aa_shift	proc/AA.c	/^u32 aa_shift[4] = {2,8,1,0x10};$/;"	v
+aa_wr_statistic_thread	proc/AA.c	/^void * aa_wr_statistic_thread(void * arg)$/;"	f
+addr_t	djtag/djtag.h	/^typedef u64 addr_t;$/;"	t
+argparse	parse.py	/^import argparse$/;"	i
+args	parse.py	/^    args = parser.parse_args()$/;"	v
+bits	djtag/djtag.h	/^    }bits;$/;"	m	union:t2DjtagMstrCfg	typeref:struct:t2DjtagMstrCfg::__anon1
+bits	djtag/djtag.h	/^    }bits;$/;"	m	union:t2DjtagMstrStartEn	typeref:struct:t2DjtagMstrStartEn::__anon2
+bits	djtag/djtag.h	/^    }bits;$/;"	m	union:t2DjtagOpSt	typeref:struct:t2DjtagOpSt::__anon3
+chain_unit_cfg_en	djtag/djtag.h	/^        unsigned int chain_unit_cfg_en       :   16;$/;"	m	struct:t2DjtagMstrCfg::__anon1
+check_aa_type	parse.py	/^def check_aa_type(file_name):$/;"	f
+cond_path	parse.py	/^    cond_path = {"aa_cb":"\/home\/aa_cb_statistic",$/;"	v
+cond_type	parse.py	/^    cond_type = {"aa_cb":"AA",$/;"	v
+condition	parse.py	/^        condition = args.condition.lower()$/;"	v
+cp	parse.py	/^        cp = cond_path$/;"	v
+cp	parse.py	/^        cp = {condition:cond_path[condition]}$/;"	v
+cp	parse.py	/^    cp = {}$/;"	v
+ddr_base	djtag/djtag.c	/^addr_t ddr_base[DJTAG_DIE_NUM * 2];$/;"	v
+ddr_base_ioremap	proc/LLC.c	/^void ddr_base_ioremap(void)$/;"	f
+ddr_base_iounmap	proc/LLC.c	/^void ddr_base_iounmap(void)$/;"	f
+ddr_bef	proc/LLC.c	/^u64 ddr_bef[DDR_CNT_NUM] = {0};$/;"	v
+ddr_cnt	proc/LLC.c	/^u64* ddr_cnt[DDR_CNT_NUM]; $/;"	v
+ddr_event_cfg	proc/LLC.c	/^void ddr_event_cfg(void)$/;"	f
+ddr_free_mem	proc/LLC.c	/^void ddr_free_mem(void)$/;"	f
+ddr_info	proc/LLC.c	/^char ddr_info[][4] = {"wr","rd","wr","rd","wr","rd","wr","rd","wr","rd","wr","rd","wr","rd","wr",$/;"	v
+ddr_phy_base	djtag/djtag.c	/^addr_t ddr_phy_base[DJTAG_DIE_NUM * 2] = {S0_TA_DDR0_ADDR,S0_TA_DDR1_ADDR,$/;"	v
+debug_bus_en	djtag/djtag.h	/^        unsigned int debug_bus_en           :   1 ;$/;"	m	struct:t2DjtagOpSt::__anon3
+debug_module_sel	djtag/djtag.h	/^        unsigned int debug_module_sel        :   8 ;$/;"	m	struct:t2DjtagMstrCfg::__anon1
+delay	djtag/djtag.h	/^    unsigned int delay;$/;"	m	struct:test_data
+dfx-objs	Makefile	/^dfx-objs := djtag\/djtag.o proc\/LLC.o proc\/HHA.o proc\/AA.o proc\/PA.o proc\/proc.o $/;"	m
+dfx_fops	proc/proc.c	/^static const struct file_operations dfx_fops = {$/;"	v	typeref:struct:file_operations	file:
+djtag_mstr_disable	djtag/djtag.h	/^        unsigned int djtag_mstr_disable      :   1 ;$/;"	m	struct:t2DjtagMstrCfg::__anon1
+djtag_mstr_start_en	djtag/djtag.h	/^        unsigned int djtag_mstr_start_en    :   1 ;$/;"	m	struct:t2DjtagMstrStartEn::__anon2
+djtag_mstr_wr	djtag/djtag.h	/^        unsigned int djtag_mstr_wr           :   1 ;$/;"	m	struct:t2DjtagMstrCfg::__anon1
+djtag_nor_cfg_en	djtag/djtag.h	/^        unsigned int djtag_nor_cfg_en        :   1 ;$/;"	m	struct:t2DjtagMstrCfg::__anon1
+djtag_op_done	djtag/djtag.h	/^        unsigned int djtag_op_done          :   1 ;$/;"	m	struct:t2DjtagOpSt::__anon3
+djtag_readreg	djtag/djtag.c	/^unsigned int djtag_readreg(u64 base,u32 module_sel,u32 offset,u32 cfg_en)$/;"	f
+djtag_writereg	djtag/djtag.c	/^unsigned int djtag_writereg(u64 base,u32 module_sel,u32 offset,u32 cfg_en, u32 value)$/;"	f
+get_aa_cb_statistic	proc/AA.c	/^void get_aa_cb_statistic(u32 type,u32 _time)$/;"	f
+get_aa_per_second	proc/AA.c	/^void get_aa_per_second(void *arg,u32 index)$/;"	f
+get_aa_rd_statistic	proc/AA.c	/^void get_aa_rd_statistic(u32 type,u32 _time)$/;"	f
+get_aa_wr_statistic	proc/AA.c	/^void get_aa_wr_statistic(u32 type,u32 _time)$/;"	f
+get_ddr_per_second	proc/LLC.c	/^void get_ddr_per_second(void *arg,u32 index)$/;"	f
+get_hha_per_second	proc/HHA.c	/^void get_hha_per_second(void *arg,u32 index)$/;"	f
+get_hha_statistic	proc/HHA.c	/^void get_hha_statistic(u32 type,u32 _time)$/;"	f
+get_hllc_per_second	proc/PA.c	/^void get_hllc_per_second(void *arg,u32 index)$/;"	f
+get_llc_per_second	proc/LLC.c	/^void get_llc_per_second(void *arg,u32 index)$/;"	f
+get_llc_statistic	proc/LLC.c	/^void get_llc_statistic(u32 type,u32 _time)$/;"	f
+get_pa_per_second	proc/PA.c	/^void get_pa_per_second(void *arg,u32 index)$/;"	f
+get_pa_statistic	proc/PA.c	/^void get_pa_statistic(u32 type,u32 _time)$/;"	f
+get_sllcni_per_second	proc/HHA.c	/^void get_sllcni_per_second(void *arg,u32 index)$/;"	f
+get_sllctt_per_second	proc/HHA.c	/^void get_sllctt_per_second(void *arg,u32 index)$/;"	f
+hha_bef	proc/HHA.c	/^u64 hha_bef[HHA_CNT_NUM] = {0};$/;"	v
+hha_cnt	proc/HHA.c	/^u64 * hha_cnt[HHA_CNT_NUM]; $/;"	v
+hha_free_mem	proc/HHA.c	/^void hha_free_mem(void)$/;"	f
+hha_set_event_cfg	proc/HHA.c	/^void hha_set_event_cfg(void)$/;"	f
+hha_statistic_thread	proc/HHA.c	/^void * hha_statistic_thread(void * arg)$/;"	f
+hi1616_dfx_exit	proc/proc.c	/^module_exit(hi1616_dfx_exit);$/;"	v
+hi1616_dfx_exit	proc/proc.c	/^static void __exit hi1616_dfx_exit(void)$/;"	f	file:
+hi1616_dfx_init	proc/proc.c	/^module_init(hi1616_dfx_init);$/;"	v
+hi1616_dfx_init	proc/proc.c	/^static int __init hi1616_dfx_init(void)$/;"	f	file:
+hi1616_dfx_open	proc/proc.c	/^static int hi1616_dfx_open(struct inode *inode, struct file *file)$/;"	f	file:
+hi1616_dfx_write	proc/proc.c	/^size_t hi1616_dfx_write(struct file *file, const char __user *buf, size_t count, loff_t *ppos)$/;"	f
+hllc_bef	proc/PA.c	/^u64 hllc_bef[HLLC_CNT_NUM] = {0};$/;"	v
+hllc_cnt	proc/PA.c	/^u64 * hllc_cnt[HLLC_CNT_NUM];$/;"	v
+hllc_free_mem	proc/PA.c	/^void hllc_free_mem(void)$/;"	f
+key_counts	parse.py	/^def key_counts(key,list):$/;"	f
+lib-m	djtag/Makefile	/^lib-m := djtag.o$/;"	m
+lib-m	proc/Makefile	/^lib-m := AA.o$/;"	m
+lib-m	proc/Makefile	/^lib-m := HHA.o$/;"	m
+lib-m	proc/Makefile	/^lib-m := LLC.o$/;"	m
+lib-m	proc/Makefile	/^lib-m := PA.o$/;"	m
+lib-m	proc/Makefile	/^lib-m := proc.o$/;"	m
+list_all	proc/proc.c	/^static void list_all(void)$/;"	f	file:
+llc_bank_info	proc/LLC.c	/^char llc_bank_info[][10] = {"LLC_BANK0","LLC_BANK1","LLC_BANK2","LLC_BANK3"};$/;"	v
+llc_bef	proc/LLC.c	/^u64 llc_bef[LLC_CNT_NUM] = {0};$/;"	v
+llc_clear_event	proc/LLC.c	/^void llc_clear_event(void)$/;"	f
+llc_cnt	proc/LLC.c	/^u64* llc_cnt[LLC_CNT_NUM];$/;"	v
+llc_free_mem	proc/LLC.c	/^void llc_free_mem(void)$/;"	f
+llc_set_event_cfg	proc/LLC.c	/^void llc_set_event_cfg(void)$/;"	f
+llc_statistic_thread	proc/LLC.c	/^void * llc_statistic_thread(void *arg)$/;"	f
+llc_temp	proc/LLC.c	/^u64 llc_temp[DJTAG_DIE_NUM][LLC_EVENT_NUM][LLC_BANK_NUM] = {0};$/;"	v
+loops	djtag/djtag.h	/^    unsigned int loops;$/;"	m	struct:test_data
+name	djtag/djtag.c	/^char name[][20] = {"Socket0_TA","Socket0_TB","Socket1_TA","Socket1_TB",$/;"	v
+name	djtag/djtag.c	/^char name[][20] = {"Socket0_TA","Socket0_TB","Socket1_TA","Socket1_TB"};    $/;"	v
+name	djtag/djtag.c	/^char name[][20] = {"Socket0_TA","Socket0_TB"};$/;"	v
+ni_info	djtag/djtag.c	/^char ni_info[][20] = {"Socket0_NA","Socket0_NB","Socket1_NA","Socket1_NB",$/;"	v
+ni_info	djtag/djtag.c	/^char ni_info[][20] = {"Socket0_NA","Socket0_NB","Socket1_NA","Socket1_NB"}; $/;"	v
+ni_info	djtag/djtag.c	/^char ni_info[][20] = {"Socket0_NA","Socket0_NB"};$/;"	v
+ni_sc_ioremap	proc/proc.c	/^void ni_sc_ioremap(void)$/;"	f
+ni_sc_iounmap	proc/proc.c	/^void ni_sc_iounmap(void)$/;"	f
+ni_sc_phy	djtag/djtag.c	/^addr_t ni_sc_phy[DJTAG_DIE_NUM] = {S0_NA_SC,S0_NB_SC,$/;"	v
+ni_sc_phy	djtag/djtag.c	/^addr_t ni_sc_phy[DJTAG_DIE_NUM] = {S0_NA_SC,S0_NB_SC};$/;"	v
+nimbus_djtag_base	djtag/djtag.c	/^addr_t nimbus_djtag_base[DJTAG_DIE_NUM];$/;"	v
+obj-m	Makefile	/^obj-m := dfx.o$/;"	m
+offset	proc/HHA.c	/^                        DJTAG_MODULE_SEL_NI_SLLC0 + (sllc_id), offset, 0x01)$/;"	v
+pa_cnt	proc/PA.c	/^u64 * pa_cnt[PA_CNT_NUM];  $/;"	v
+pa_free_mem	proc/PA.c	/^void pa_free_mem(void)$/;"	f
+pa_statistic_thread	proc/PA.c	/^void * pa_statistic_thread(void * arg)$/;"	f
+parser	parse.py	/^    parser = argparse.ArgumentParser(description='dfx data convert')$/;"	v
+rdata_changed	djtag/djtag.h	/^        unsigned int rdata_changed          :   10;$/;"	m	struct:t2DjtagOpSt::__anon3
+reg_read	proc/LLC.c	36;"	d	file:
+reg_write	proc/LLC.c	37;"	d	file:
+reserved	djtag/djtag.h	/^        unsigned int reserved                :   5 ;$/;"	m	struct:t2DjtagMstrCfg::__anon1
+reserved	djtag/djtag.h	/^        unsigned int reserved               :   31;$/;"	m	struct:t2DjtagMstrStartEn::__anon2
+reserved0	djtag/djtag.h	/^        unsigned int reserved0              :   6 ;$/;"	m	struct:t2DjtagOpSt::__anon3
+reserved1	djtag/djtag.h	/^        unsigned int reserved1              :   6 ;   $/;"	m	struct:t2DjtagOpSt::__anon3
+rt	parse.py	/^rt = ''$/;"	v
+sllc_enable_dfx_en	proc/HHA.c	/^void sllc_enable_dfx_en(void)$/;"	f
+sllc_id	proc/HHA.c	/^                        DJTAG_MODULE_SEL_NI_SLLC0 + (sllc_id), offset, 0x01)$/;"	v
+sllc_name	proc/HHA.c	/^char sllc_name[][10] = {"SLLC0","SLLC1","SLLC2","SLLC3"};$/;"	v
+sllcni_bef	proc/HHA.c	/^u64 sllcni_bef[SLLCNI_CNT_NUM] = {0};$/;"	v
+sllcni_cnt	proc/HHA.c	/^u64 * sllcni_cnt[SLLCNI_CNT_NUM];$/;"	v
+sllcni_free_mem	proc/HHA.c	/^void sllcni_free_mem(void)$/;"	f
+sllctt_bef	proc/HHA.c	/^u64 sllctt_bef[SLLCTT_CNT_NUM] = {0};$/;"	v
+sllctt_cnt	proc/HHA.c	/^u64 * sllctt_cnt[SLLCTT_CNT_NUM];$/;"	v
+sllctt_free_mem	proc/HHA.c	/^void sllctt_free_mem(void)$/;"	f
+socket_info	djtag/djtag.h	/^    unsigned int socket_info;$/;"	m	struct:test_data
+sys	parse.py	/^import sys$/;"	i
+t2DjtagMstrCfg	djtag/djtag.h	/^typedef union t2DjtagMstrCfg{$/;"	u
+t2DjtagMstrStartEn	djtag/djtag.h	/^typedef union t2DjtagMstrStartEn{$/;"	u
+t2DjtagOpSt	djtag/djtag.h	/^typedef union t2DjtagOpSt{$/;"	u
+test_data	djtag/djtag.h	/^typedef struct test_data{$/;"	s
+test_data	djtag/djtag.h	/^}test_data;$/;"	t	typeref:struct:test_data
+totem_djtag_base	djtag/djtag.c	/^addr_t totem_djtag_base[DJTAG_DIE_NUM];$/;"	v
+tt_sc_ioremap	proc/proc.c	/^void tt_sc_ioremap(void)$/;"	f
+tt_sc_iounmap	proc/proc.c	/^void tt_sc_iounmap(void)$/;"	f
+tt_sc_phy	djtag/djtag.c	/^addr_t tt_sc_phy[DJTAG_DIE_NUM] = {S0_TA_SC,S0_TB_SC,$/;"	v
+tt_sc_phy	djtag/djtag.c	/^addr_t tt_sc_phy[DJTAG_DIE_NUM] = {S0_TA_SC,S0_TB_SC};$/;"	v
+u32	djtag/djtag.h	/^    unsigned int u32 ;$/;"	m	union:t2DjtagMstrCfg
+u32	djtag/djtag.h	/^    unsigned int u32;$/;"	m	union:t2DjtagMstrStartEn
+u32	djtag/djtag.h	/^    unsigned int u32;$/;"	m	union:t2DjtagOpSt
+unit_conflict	djtag/djtag.h	/^        unsigned int unit_conflict          :   8 ;$/;"	m	struct:t2DjtagOpSt::__anon3
+work	parse.py	/^def work(block_size, input_file, type):$/;"	f

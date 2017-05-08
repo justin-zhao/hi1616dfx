@@ -1,0 +1,45 @@
+1. 修改Makefile，编译内核模块
+
+	1.1 如果是在x86上交叉编译
+
+	KSRC = /home/zhouchengming/sailingos/
+
+	改为arm64 guest运行环境对应的内核目录
+
+	1.2 如果在arm64上本地编译
+
+	如果有运行环境对应的内核目录，像上面指定内核目录也可以；然后把 default改为：
+	$(MAKE) -C $(KSRC) M=$(PWD) LDDINC=$(PWD)/../include
+
+	如果没有内核代码目录，可以安装Os对应的build包，举例ubuntu系统：
+	sudo apt-get install linux-headers-$(uname -r)
+	或者sudo apt-get install linux-headers-generic
+	然后修改Makefile：
+	KSRC = /lib/modules/$(uname -r)/build
+	default改成上面一样。
+
+2. 使用
+
+	2.1 insmod dfx.ko
+
+	2.2 echo "2 xxx" > /proc/HI1616_DFX
+		xxx是多少秒
+
+	2.3 test 开始测试
+
+	2.4 测试结束，指定的时间也到了
+
+	2.5 输出的数据在文件
+		/home/hha_sllc_statistic
+
+3. 数据处理
+
+	Socket开始的表示：每个硬件计数模块
+	每一行表示1s的计数，如果40s，则有40行。有12列，表示12个硬件计数器，第7，8列表示片外，片内访问次数。
+	可以通过这个来绘制测试过程的变化趋势，看到什么时候跨片访问比较多。
+	不过我只关心总数。
+
+	parse_hha.sh
+	写了这个脚本，统计每个HHA模块的片外访问的比例。
+	计算原理： （片外访问总数）/ (片外访问总数 + 片内访问总数）
+	
