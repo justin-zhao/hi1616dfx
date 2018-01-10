@@ -78,8 +78,7 @@ void ni_sc_iounmap(void)
 
 
 
-size_t hi1616_dfx_write(struct file *file, const char __user *buf, size_t count, loff_t *ppos)
-//static int hi1616_dfx_write(struct file *file, const char __user *buf, size_t count, loff_t *ppos)
+static ssize_t hi1616_dfx_write(struct file *file, const char __user *buf, size_t count, loff_t *ppos)
 {
     char mbuf[100];
     char *p;
