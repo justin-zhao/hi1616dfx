@@ -3,10 +3,8 @@
 
 val=$(grep '(\*write)' $1 | awk '{print $1}')
 
-val=''
 
 if [[ $val == "" ]]; then
-	echo 'aaaaaaaaaaaaaaaaaaaaaaaa'
 	val='ssize_t'
 fi
 
