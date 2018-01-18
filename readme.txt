@@ -1,4 +1,4 @@
-0.安装与使用：https://github.com/YvesZHI/hi1616dfx/blob/master/manual.txt<br>
+0.安装与使用：https://github.com/YvesZHI/hi1616dfx/blob/master/manual.txt
 
 1.insmod dfx.ko（需要保证编译时使用内核和使用环境内核匹配，版本不一致时需重新编译）
 
